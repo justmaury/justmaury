@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/justmaury/justmaury/main/Java%20Code%20Portrait%20of%20a%20Developer.jpg" width="380" alt="Abhishek Maury Java Code Portrait" />
+<<img src="https://raw.githubusercontent.com/justmaury/justmaury/main/Binary%20Code%20Portrait%20on%20Black.png" width="380" alt="Abhishek Maury Binary Code Portrait" />
 
 </div>
 
